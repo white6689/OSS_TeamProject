@@ -15,6 +15,7 @@ router.get('/', function(req, res, next) {
             arr.push(JSON.stringify(corona_t[0].confirm));
             arr.push(JSON.stringify(corona_t[0].dead));
             arr.push(JSON.stringify(corona_t[0].cure));
+            arr.push(JSON.stringify(corona_t[0].curing));
             inform_cities.push(arr);
         }
             let corona = await covid.getTotal();
