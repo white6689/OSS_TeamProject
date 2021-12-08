@@ -1,4 +1,4 @@
-# OSS_TeamProject
+# Covid-19 information
 
 팀원
 >2016722068 안유성
