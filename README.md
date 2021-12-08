@@ -24,4 +24,6 @@ nodemon ./myfirstmap/bin/www
 * 2017203084 이주연
 * 2019203004 박영서
 
+# License
 
+MIT
