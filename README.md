@@ -1,6 +1,6 @@
 # Covid-19 information
 
-코로나 확진자 정보와 선별진료소 위치를 알 수 있는 웹 제작
+코로나 확진자 정보와 선별진료소 위치를 알 수 있는 웹
 
 ![png_1](./image/web.png)
 ![png_2](./image/map.png)
